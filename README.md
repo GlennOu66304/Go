@@ -11,7 +11,7 @@ go run .
 ```
 run specific go file
 ```
-o run 2.go
+go run 2.go
 ```
 [Download and install](https://golang.org/doc/install)   
 
